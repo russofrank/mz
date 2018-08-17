@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Italy Zone MiniMap
+// @name         Vasco-Pixel/mz
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  Italy Zone MiniMap
+// @description  Vasco-Pixel/mz
 // @author       
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/powergab76/ItalyZoneMinimap
-// @updateURL    https://raw.githubusercontent.com/powergab76/ItalyZoneMinimap/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/powergab76/ItalyZoneMinimap/blob/master/minimap.user.js
+// @homepage     https://github.com/Vasco-Pixel/mz
+// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -79,7 +79,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/powergab76/ItalyZoneMinimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Vasco-Pixel/mz/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates from cursor
