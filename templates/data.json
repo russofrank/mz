@@ -1,10 +1,10 @@
 {
-  "The Empire": {
-    "name": "the_empire.png",
-    "x": -4096,
-    "y": -4096,
-    "width": 5237,
-    "height": 6566
+  "zone": {
+    "name": "zone.png",
+    "x": 743,
+    "y": 2933,
+    "width": 1268,
+    "height": 724
    },
   "ObsidianArts": {
     "name": "ObsidianArts.png",
