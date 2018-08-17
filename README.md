@@ -1,7 +1,8 @@
 # Minimapa-VascoPixel-Pixel ZONE
 #### Discord http://discord.me/vascopixel 
 #### Creditos:
-#### PowerGab76 discord.io/italianempire
+#### PowerGab76 
+#### http://discord.io/italianempire
 ### PASSOS
 #### PASSO 1: Instalar Tampermonkey
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
