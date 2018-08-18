@@ -11,7 +11,5 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### PASSO 2: Instalar o script
-<a href="https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
-
-">download</a>
+<a href="https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js">download</a>
 
