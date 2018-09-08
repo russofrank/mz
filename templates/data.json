@@ -19,15 +19,15 @@
     "y": 3084,
     "width": 329,
     "height": 574
-   }
+   },
   "hepta": {
     "name": "hepta.png",
     "x": -3686,
     "y": 128,
     "width": 272,
     "height": 76
-   }
-"gremio": {
+  },
+  "gremio": {
     "name": "gremio.png",
     "x": -3192,
     "y": -3689,
