@@ -20,4 +20,18 @@
     "width": 329,
     "height": 574
    }
+  "template-5-1": {
+    "name": "template-5-1.png",
+    "x": - 3686,
+    "y": 128,
+    "width": 272,
+    "height": 76
+   }
+"template6": {
+    "name": "template6.png",
+    "x": - 3192,
+    "y": - 3689,
+    "width": 426,
+    "height": 311
+   }
 }
