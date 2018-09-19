@@ -34,11 +34,11 @@
     "width": 426,
     "height": 311
    },
-  "dsgremio": {
-    "name": "dsgremio.png",
-    "x": -3187,
-    "y": -3727,
-    "width": 337,
-    "height": 31
+  "gz": {
+    "name": "gz.png",
+    "x": -3185,
+    "y": -3755,
+    "width": 671,
+    "height": 53
    }
 }
