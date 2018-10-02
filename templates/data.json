@@ -34,12 +34,12 @@
     "width": 426,
     "height": 311
    },
-  "gremioescudo":{
-    "name":"gremioescudo.png",
-    "x":-3800, 
-    "y":-3550, 
-    "width":604,
-    "height":604
+  "gremioescudo": {
+    "name": "gremioescudo.png",
+    "x": -3800, 
+    "y": -3550, 
+    "width": 604,
+    "height": 604
     },
   "gz": {
     "name": "gz.png",
