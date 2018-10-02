@@ -36,8 +36,8 @@
    },
   "template-9":{
     "name":"template-9",
-    "x"-3800
-    "y"-3550
+    "x"-3800, 
+    "y"-3550, 
     "width":604,
     "height":604
     },
