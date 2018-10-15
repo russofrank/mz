@@ -6,14 +6,8 @@
     "width": 1268,
     "height": 724
    },
-  "The Empire": {
-    "name": "the_empire.png",
-    "x": -4096,
-    "y": -4096,
-    "width": 5237,
-    "height": 6566
-   },
-  "ObsidianArts": {
+  
+ "ObsidianArts": {
     "name": "ObsidianArts.png",
     "x": 1820,
     "y": 3084,
