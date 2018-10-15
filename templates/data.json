@@ -13,6 +13,13 @@
     "width": 329,
     "height": 574
    },
+  "so_a_aguia": {
+    "name": "so_a_aguia.png",
+    "x": 3505,
+    "y": -3393,
+    "width": 655,
+    "height": 396
+   }, 
   "The Empire": {
     "name": "the_empire.png",
     "x": -4096,
